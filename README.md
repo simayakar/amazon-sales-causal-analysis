@@ -13,8 +13,6 @@ To uncover causal relationships and analyze how these variables interact, we emp
 
 ## Methods Used
 
-We utilized the following methods for causal analysis:
-
 1. **Causal Discovery Techniques**
 2. **Statistical Analysis**
 
