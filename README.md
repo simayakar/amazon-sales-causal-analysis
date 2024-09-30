@@ -1,3 +1,7 @@
+**Amazon Sales Causal Analysis**
+
+![_Language Techniques Presentation Graphic Notepad Pastel Style](https://github.com/user-attachments/assets/d89680b4-b3a7-4412-8513-4edefa074f6c)
+
 # Project Overview
 
 **The project aims to examine the effect of the `discount_percentage` variable on the `rating` variable.**
